@@ -1,5 +1,5 @@
 # 🎨 The Ultimate Color palettes List
-List of websites or services which could help you to get the best colors for yout project !
+List of websites or services which could help you to get the best colors for your projects.
 
 
 | Websites    | Usability     | Comments     |
