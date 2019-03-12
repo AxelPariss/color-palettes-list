@@ -11,7 +11,7 @@ List of websites or services which could help you to get the best colors for you
 |  [colormind.io](http://colormind.io)   |⭐️⭐️⭐️| We have a website preview with selected palette. It's possible to generate palette from image : very useful !
 |  [Color-hex](https://www.color-hex.com/color-palettes)   |⭐️| Palettes are not modern and we need to click on a palette to see hex code
 |  [HexColorTool](https://www.hexcolortool.com/)   |⭐️⭐️⭐️| a lot of options 
-|  [Adobe-color](https://color.adobe.com/fr/create/color-wheel/)   |⭐️⭐️⭐️| made by Adobe
+|  [Adobe-color](https://color.adobe.com/fr/create/color-wheel/)   |⭐️⭐️| made by Adobe
 
 ## Did you enjoy ?
 Give a **star** 🌟 to the repo if you enjoyed it !
